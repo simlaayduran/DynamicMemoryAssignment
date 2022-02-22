@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include"linked.h"
 #include<stdlib.h>
-//Arınç Utku Ayduran 260830748
 //Asu Simla Ayduran 260822715 
 struct ACCOUNT *head = NULL;
 void findUpdate( int account , float amount){
