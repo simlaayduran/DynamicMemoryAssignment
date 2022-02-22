@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include"ssv.h"
 #include"linked.h"
-//Arınç Utku Ayduran 260830748 
 //Asu Simla Ayduran 260822715 
 int  main(){
     FILE *ptr;
